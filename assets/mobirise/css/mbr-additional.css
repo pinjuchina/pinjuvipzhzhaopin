@@ -1,6 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
 
 
 
@@ -411,6 +416,15 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header6-q .mbr-section-title {
+  color: #28262b;
+}
+#header6-q .mbr-section-text {
+  color: #000000;
+}
+#header6-q .mbr-section-title FONT {
+  color: #232323;
+}
 #ext_menu-l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -479,6 +493,19 @@ h6,
 #header3-a H3 {
   font-size: 36px;
 }
+#content1-b P {
+  font-family: 'Oxygen', sans-serif;
+  color: #28324e;
+}
+#content2-c P {
+  font-family: 'Oxygen', sans-serif;
+}
+#content2-g P {
+  font-family: 'Oxygen', sans-serif;
+}
+#content2-h P {
+  font-family: 'Oxygen', sans-serif;
+}
 #msg-box3-f .mbr-section-title,
 #msg-box3-f p {
   color: #000;
@@ -488,6 +515,9 @@ h6,
 }
 #msg-box3-f .btn {
   font-size: 16px;
+}
+#form1-r .form-control-label {
+  color: #232323;
 }
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
